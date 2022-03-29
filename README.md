@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Deep learning projects
 - 💬 Ask me about Python
 - 📫 How to reach me: joemonv97@gmail.com
-- ⚡ Fun fact: Joemon is a Python Developer
+- ⚡ Fun fact: Joemon is a Machine Learning Developer
 -->

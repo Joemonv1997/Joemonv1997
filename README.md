@@ -9,3 +9,5 @@
 - 💬 Ask me about Python
 - 📫 How to reach me: joemonv97@gmail.com
 - ⚡ Fun fact: Machine Learning Developer
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Joemonv1997&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

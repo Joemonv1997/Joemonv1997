@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Joemonv1997/Joemonv1997** is a ✨ _special_ ✨ repository 
+**Joemonv1997/Joemonv1997** is a ✨ personal ✨ repository 
 
 - 🔭 I’m currently working on React Frontend Projects
 - 🌱 I’m currently learning Django and react
